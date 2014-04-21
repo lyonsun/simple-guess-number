@@ -1,0 +1,1 @@
+<?php if(!defined('IN_DISCUZ')) exit('Access Denied'); hookscriptoutput('test1');?><?php include template('common/header'); ?><p>hello, world!</p><?php include template('common/footer'); ?>

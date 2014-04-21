@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<root>
+	<item id="Title"><![CDATA[Discuz! Addon MD5]]></item>
+	<item id="ID"><![CDATA[mobileoem.plugin]]></item>
+	<item id="RevisionID"><![CDATA[25961]]></item>
+	<item id="SN"><![CDATA[2014042122RMBg0DJBM7]]></item>
+	<item id="RevisionDateline"><![CDATA[1387941837]]></item>
+	<item id="Data">
+		<item id="/api/pushlist.php"><![CDATA[b807a7404ee119509f36493c5d92dace]]></item>
+		<item id="/api/pushtomobile.php"><![CDATA[c62e6e4de9fb0fbf00ce2363fa20b1cf]]></item>
+		<item id="/api/refreshpush.php"><![CDATA[c8500bbe38ec1e787be3514bfd2571a4]]></item>
+		<item id="/api/register.php"><![CDATA[7f2bf8b0db88af6af9f3058ba7dd4d5b]]></item>
+		<item id="/api/removepush.php"><![CDATA[b3b8b94a76576243227af54f0457e70b]]></item>
+		<item id="/api/sendtopc.php"><![CDATA[9ec9d13db7e72cc52ed7a60dc5688995]]></item>
+		<item id="/api/threaddetail.php"><![CDATA[cce9bd0c5e4acab8f242e50f3d602101]]></item>
+		<item id="/discuz_plugin_mobileoem_SC_GBK.xml"><![CDATA[0547720f53d1c80c29bbafe0ea196bd4]]></item>
+		<item id="/discuz_plugin_mobileoem_SC_UTF8.xml"><![CDATA[b122ad1a35d9046abf6c3a6336a33e6e]]></item>
+		<item id="/discuz_plugin_mobileoem_TC_BIG5.xml"><![CDATA[85fd9d49325f3ab0ce60b24f0cb826ff]]></item>
+		<item id="/discuz_plugin_mobileoem_TC_UTF8.xml"><![CDATA[26952477c139b86fe52e24c75614ed15]]></item>
+		<item id="/discuzcode.func.php"><![CDATA[90afffbc362c1498d24cf99345439f4b]]></item>
+		<item id="/index.htm"><![CDATA[7215ee9c7d9dc229d2921a40e899ec5f]]></item>
+		<item id="/install.php"><![CDATA[61e2cf1cb4f09a320b110c08e78482e1]]></item>
+		<item id="/json.class.php"><![CDATA[8d01a3c090f2ffd2ca24825702fe03a1]]></item>
+		<item id="/mobile.php"><![CDATA[4b6ba9c0c8353812173bf37d30277850]]></item>
+		<item id="/mobileoem.class.php"><![CDATA[0262702702a7815e8909802b6a61f9f2]]></item>
+		<item id="/qrcode.class.php"><![CDATA[0a935d626b9832659f22d725187595d4]]></item>
+		<item id="/setting.inc.php"><![CDATA[469601ca91d73565d417a6206ac8c9bc]]></item>
+		<item id="/static/image/cloud.png"><![CDATA[8cb9617dfbe205b44c31c7fa6043b94f]]></item>
+		<item id="/static/image/icon_reply.png"><![CDATA[8f9a2e79200a124acca4204e7e8c9551]]></item>
+		<item id="/static/image/load_pic.png"><![CDATA[f7bc97e8d6a0f77345b28eaa5d657b4f]]></item>
+		<item id="/static/image/push.png"><![CDATA[f46f3394038262e2a02c002da33e5d9d]]></item>
+		<item id="/static/js/iscroll.js"><![CDATA[81534f819dbb8f857997bf1900f5d6a6]]></item>
+		<item id="/static/js/viewthread.js"><![CDATA[bb0380cfa1b5c862b699ecbce931cb2f]]></item>
+		<item id="/switch.php"><![CDATA[1bc35eb0de42ddd1d2739fcc666ac1b8]]></item>
+		<item id="/table/table_mobileoem_member.php"><![CDATA[eb8f75a98f7da6834b594d9325156d0a]]></item>
+		<item id="/table/table_mobileoem_pushthreads.php"><![CDATA[4b19d718028fd92027e890767c04286b]]></item>
+		<item id="/template/downloadguide.htm"><![CDATA[7347880f531d58f5aa622bed0b648b81]]></item>
+		<item id="/template/mobileoem/common/header.htm"><![CDATA[86435d547d974fd85d42c84d0f59416e]]></item>
+		<item id="/template/mobileoem/common/showmessage.htm"><![CDATA[7e43c45515d9170fcd5e47d451104c60]]></item>
+		<item id="/template/mobileoem/forum/discuzcode.htm"><![CDATA[275200071eaf704ae5ae693b7e708982]]></item>
+		<item id="/template/mobileoem/forum/viewthread.htm"><![CDATA[9f162b6f9f6a186837c0be6bbebdb37a]]></item>
+		<item id="/template/mobileoem/forum/viewthread_node.htm"><![CDATA[8779826b262374a345509ee1613cbb1c]]></item>
+		<item id="/template/mobileoem/forum/viewthread_node_body.htm"><![CDATA[332e571fa8bb79cdfbf87cd6fcc620f8]]></item>
+		<item id="/template/module.htm"><![CDATA[2c9d7d58b41418e40eb46c3b18274b44]]></item>
+	</item>
+</root>
